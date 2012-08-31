@@ -1,0 +1,4 @@
+natsort
+*.o
+.DS_Store
+release
